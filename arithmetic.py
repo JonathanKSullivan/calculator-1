@@ -25,7 +25,7 @@ def square(num):
 
 def cube(num):
     """Return the cube of a number"""
-    pass
+    return num ** 3
 
 
 def power(num, exponent):
